@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Miscellaneous
+*.swp
+*.swo
